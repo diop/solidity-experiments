@@ -1,0 +1,31 @@
+{
+  "name": "solidity-experiments",
+  "version": "1.0.0",
+  "description": "Smart Contracts and Solidity playground.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diop/solidity-experiments.git"
+  },
+  "keywords": [
+    "solidity",
+    "smart",
+    "contracts",
+    "ethereum"
+  ],
+  "author": "Fodé Diop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diop/solidity-experiments/issues"
+  },
+  "homepage": "https://github.com/diop/solidity-experiments#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1"
+  }
+}
